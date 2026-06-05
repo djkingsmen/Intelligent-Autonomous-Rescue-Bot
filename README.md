@@ -55,7 +55,7 @@ A battery-powered autonomous robot built using Arduino, designed for disaster-re
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/intelligent-autonomous-rescue-bot.git
+   git clone https://github.com/djkingsmen/Intelligent-Autonomous-Rescue-Bot.git
    cd intelligent-autonomous-rescue-bot
    ```
 
