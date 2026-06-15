@@ -75,11 +75,7 @@ A battery-powered autonomous robot built using Arduino, designed for disaster-re
 
 ---
 
-## 📸 Demo
 
-> *(Add photos or a video link of the bot in action here)*
-
----
 
 ## 🎯 Use Case
 
